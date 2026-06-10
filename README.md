@@ -82,9 +82,9 @@ Segmented customers based on purchasing behavior to support targeted marketing s
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: https://github.com/AymenAli-Analyst
+* LinkedIn: https://linkedin.com/in/www.linkedin.com/in/aymen-ali-analyst
+* Email: [your.email@example.com](aymenmoh720@gmail.com)
 
 ---
 
