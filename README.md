@@ -63,7 +63,8 @@ Segmented customers based on purchasing behavior to support targeted marketing s
 
 ### Dashboard 1
 
-![Dashboard 1](<img width="1438" height="806" alt="Screenshot 2026-07-30 112817 (1)" src="https://github.com/user-attachments/assets/aa40df16-d7d0-43d0-aec4-644ea612fdcd" />
+![Dashboard 1](<img width="1438" height="806" alt="image" src="https://github.com/user-attachments/assets/01063e31-0d2f-40bd-aee4-048185fbde40" />
+
 )
 
 ### Dashboard 2
