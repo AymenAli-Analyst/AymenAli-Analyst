@@ -69,7 +69,8 @@ Segmented customers based on purchasing behavior to support targeted marketing s
 
 ### Dashboard 2
 
-![Dashboard 2](https://github.com/AymenAli-Analyst/SHEIN-GCC-360-Business-Intelligence-Dashboard/blob/main/Shein3.png.png?raw=true)
+![Dashboard 2](<img width="1439" height="811" alt="image" src="https://github.com/user-attachments/assets/5af78cb9-6b9a-445f-b645-70b4d6d362c7" />
+)
 
 ---
 
